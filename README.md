@@ -1,35 +1,87 @@
-
+[![Logo-del-ITESM-svg.png](https://i.postimg.cc/SNMpSzcj/Logo-del-ITESM-svg.png)](https://postimg.cc/4ms0wyLT)
 [![Dise-o-sin-t-tulo.png](https://i.postimg.cc/kgt190F3/Dise-o-sin-t-tulo.png)](https://postimg.cc/zy8SFPc0)
 
 
-## Introduccion 
 
-<p>Desarrollar un videojuego estilo RPG (Role Play Game), con una tematica de aventura que contara con 4 niveles que le permita a los usuarios llevar un progreso, mejorar las habilidades y los atributos tanto de los perosoanjes como de las herramientas con las que cuentan.<p>
+## Project Description 
 
-## Historia
+## Game Mechanics
 
-Un alumno a final del curso tiene problemas con sus profesores. Un viernes antes de la semana de entrega de proyectos y exámenes se va a dormir y sueña con un RPG en donde enfrenta a sus profesores en búsqueda de un 100 en sus materias. Mientras va venciendo a los Bosses su calificación irá subiendo, hasta llegar al 100, al final se muestra el mensaje felicidades aprobaste Construcción de Software y nuestro personaje se despierta y se da cuenta que su sueño se cumplió.
-
-## Personajes
-<p>Teus</p>
-<p>Beria</p>
-<p>Astaroth</p>
-<p>SeQueLus</p>
-<p>Le Oraculo</p>
-<p>Spordus</p>
-<p>Velefar</p>
-
-## Herramientas
-Gema Azul - Fuerza
-
-Gema Blanca - Resistencia
-
-Gema Amarillo - Velocidad
-
-Gema Rojo - Incremento de vida
+## Background and style of the game
 
 
+##  Illustrations of the game ideas
+##  List of assets
+1. Animation<br>
+    - (Animation Controller)<br>
+    - (Animation Clip)<br>
+  
+  
+2. Audios<br>
+   - BackgroundMusic.wav<br>
+   - ButtonSound.wav<br>
+   - CollectSound.wav<br>
+   - DeathSound.,wav<br>
+   - GrassSteps.wav<br>
+   - HardGroundSteps.wav<br>
+   - WaterSteps.wav<br>
+   - SwordAttack.wav<br>
+   - Shield.wav<br>
+   - Credits.wav<br>
+   - Hit.wav<br>
+   - DoorOpen.wav<br>
+   - ChestOpen.wav<br>
+ 
+3. Fonts <br>
+    - PressStart2P-Regular.ttf <br>
+4. Prefabs<br>
+     - Playerprefab<br>
+     - Enemie.prefab<br>
+     - Boss.prefab<br>
+     - Collectable.prefab<br>
 
+5. Scenes <br>
+    - Main Menu <br>
+    - Character Selector<br>
+    - Open World<br>
+    - Credits<br>
+    - End Menu<br>
+
+6. Scripts<br>
+    - CameraController.cs<br>
+    - CharacterSelection.cs<br>
+    - Finish.cs<br>
+    - ItemCollector.cs<br>
+    - PauseMenu.cs<br>
+    - PlayerLifes.cs<br>
+    - PlayerMovement.cs<br>
+    - Score.cs<br>
+    - StartMenu.cs<br>
+    - WayPoints.cs<br>
+
+7. Sprites<br>
+    - Background<br>
+    - Items<br>
+    - MainCharacters<br>
+        - Bebo<br>
+        - David<br>
+        - Nat<br>
+        - Joaquin<br>
+        - Miguel<br>
+        - Daniel<br>
+    - Other<br>
+    - Terrain<br>
+    - Traps<br>
+    - Enemies<br>
+    - Bosses<br>
+    - Swords<br>
+    - Shields<br>
+    - Projectiles<br>
+
+ 
+
+
+##  List of program classes
 
 ## Desarrollado con 
 
@@ -53,7 +105,7 @@ Natalia Maya Bolaños - A01781992
 
 José Daniel Rodríguez Cruz - A01781933
 
-Miguel Ángel Cabrera Victoria - A01782982
+Miguel Angel Cabrera Victoria - A01782982
 
 Joaquín Saldarriaga - A01783093
 
