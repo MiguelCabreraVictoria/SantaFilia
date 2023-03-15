@@ -83,7 +83,7 @@
 
 ##  List of program classes
 
-## Desarrollado con 
+## Developed with
 
 <p align="center">  
 
@@ -96,7 +96,7 @@
 
 </p>
 
-# Integrantes
+# Team Members
 Luis Carlos Rico Almada - A01252831
 
 David Santiago Vieyra García - A01656030
@@ -110,7 +110,7 @@ Miguel Angel Cabrera Victoria - A01782982
 Joaquín Saldarriaga - A01783093
 
 
-## Profesores 
+## Teachers
 Esteban Castillo
 
 Octavio Navarro 
